@@ -24,6 +24,14 @@ Proje; ham veri çekme scriptlerinden, temizlenmiş veri setlerinden, risk skorl
 ### Ekonomik Etki: Enerji İthalatının Cari Açığa Etkisi
 ![Ekonomik Etki](screenshots/ekonomik_etki.png)
 
+## Tedarikçi Ağı Görselleri
+
+### Türkiye Enerji İthalatı Tedarikçi Ağı (2023) — En Büyük 15 Tedarikçi Ülke
+![Enerji Tedarik Ağı 2023](enerji_tedarik_agi_2023.png)
+
+### Kategori - Ülke Bağlantı Ağı
+![Ağımız Temiz](agimiz_temiz.png)
+
 ## Öne Çıkan Bulgular
 
 - Rusya'nın kömür ithalatındaki payı 2015'te %38,4 iken 2023'te %61,9'a yükseldi.
