@@ -10,24 +10,19 @@ Proje; ham veri çekme scriptlerinden, temizlenmiş veri setlerinden, risk skorl
 ![Genel Bakış](https://github.com/user-attachments/assets/c7c70079-6d98-4615-bedd-75f556c7b665)
 
 ### Kömür-Rusya Bulgusu: Tek Kaynak Riski Hızla Artıyor
-![Kömür-Rusya Bulgusu](<img width="1312" height="742" alt="Screenshot 2026-10-31 151551" src="https://github.com/user-attachments/assets/3c4e9a86-166f-4e5e-ac1a-565476757856" />
-)
+![Kömür-Rusya Bulgusu](https://github.com/user-attachments/assets/3c4e9a86-166f-4e5e-ac1a-565476757856)
 
 ### Tedarikçi Riski & Ağ: Rusya'nın Çok Kategorili Sistemik Etkisi
-![Tedarikçi Riski ve Ağ](<img width="1321" height="743" alt="Screenshot 2026-10-31 151559" src="https://github.com/user-attachments/assets/fd1a014e-be36-4b19-aa16-feb5afe85196" />
-)
+![Tedarikçi Riski ve Ağ](https://github.com/user-attachments/assets/fd1a014e-be36-4b19-aa16-feb5afe85196)
 
 ### Fiyat Bağlantısı: Küresel Kömür Fiyatları ve Türkiye'nin İthalat Maliyeti
-![Fiyat Bağlantısı](<img width="1318" height="747" alt="Screenshot 2026-10-31 151606" src="https://github.com/user-attachments/assets/4b77d321-942e-4275-bf6f-43696bb735fb" />
-)
+![Fiyat Bağlantısı](https://github.com/user-attachments/assets/4b77d321-942e-4275-bf6f-43696bb735fb)
 
 ### Rezerv ve Üretim: Türkiye'nin Yerli Kaynakları ve Küresel Kıyaslama
-![Rezerv ve Üretim](<img width="1317" height="744" alt="Screenshot 2026-10-31 151613" src="https://github.com/user-attachments/assets/88074fbd-309a-4505-afef-3dbb0fb7d5ed" />
-)
+![Rezerv ve Üretim](https://github.com/user-attachments/assets/88074fbd-309a-4505-afef-3dbb0fb7d5ed)
 
 ### Ekonomik Etki: Enerji İthalatının Cari Açığa Etkisi
-![Ekonomik Etki](<img width="1317" height="743" alt="Screenshot 2026-10-31 151625" src="https://github.com/user-attachments/assets/1ba8e730-9ac3-4704-96c5-c5d524b90f12" />
-)
+![Ekonomik Etki](https://github.com/user-attachments/assets/1ba8e730-9ac3-4704-96c5-c5d524b90f12)
 
 ## Tedarikçi Ağı Görselleri
 
