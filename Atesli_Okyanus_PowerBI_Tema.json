@@ -1,0 +1,31 @@
+{
+  "name": "Ateşli Okyanus",
+  "dataColors": [
+    "#e66767",
+    "#3987e5",
+    "#d95926",
+    "#199e70",
+    "#c98500",
+    "#d55181",
+    "#008300",
+    "#9085e9"
+  ],
+  "background": "#14171c",
+  "foreground": "#f2f2f0",
+  "tableAccent": "#e66767",
+  "good": "#0ca30c",
+  "neutral": "#c98500",
+  "bad": "#d03b3b",
+  "maximum": "#3987e5",
+  "center": "#383835",
+  "minimum": "#e66767",
+  "null": "#5b5b58",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#1a1d23" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#2b2f36" } } }]
+      }
+    }
+  }
+}

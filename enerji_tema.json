@@ -1,0 +1,102 @@
+{
+  "name": "Enerji Bağımlılığı - Koyu Tema",
+  "dataColors": [
+    "#3987e5",
+    "#d95926",
+    "#199e70",
+    "#c98500",
+    "#d55181",
+    "#008300",
+    "#9085e9",
+    "#e66767"
+  ],
+  "background": "#1a1a19",
+  "foreground": "#f0efec",
+  "tableAccent": "#3987e5",
+  "good": "#0ca30c",
+  "neutral": "#fab219",
+  "bad": "#d03b3b",
+  "maximum": "#3987e5",
+  "center": "#383835",
+  "minimum": "#1a1a19",
+  "null": "#898781",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "color": "#f0efec",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "title": {
+      "fontSize": 13,
+      "color": "#f0efec",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "header": {
+      "fontSize": 11,
+      "color": "#f0efec"
+    },
+    "label": {
+      "fontSize": 10,
+      "color": "#c3c2b7"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#201f1d" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#34332f" } },
+            "radius": 6
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#f0efec" } },
+            "background": { "solid": { "color": "#00000000" } },
+            "fontSize": 11,
+            "bold": true,
+            "alignment": "left"
+          }
+        ],
+        "visualHeader": [
+          {
+            "transparency": 0
+          }
+        ],
+        "subTitle": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#898781" } },
+            "fontSize": 9
+          }
+        ]
+      },
+      "card": {
+        "*": [
+          {
+            "labelPrecision": 1
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1a1a19" } }
+          }
+        ]
+      }
+    }
+  }
+}
