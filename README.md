@@ -7,8 +7,7 @@ Proje; ham veri çekme scriptlerinden, temizlenmiş veri setlerinden, risk skorl
 ## Dashboard Ekran Görüntüleri
 
 ### Genel Bakış
-![Genel Bakış](<img width="1319" height="741" alt="Screenshot 2026-10-31 151543" src="https://github.com/user-attachments/assets/c7c70079-6d98-4615-bedd-75f556c7b665" />
-)
+![Genel Bakış](https://github.com/user-attachments/assets/c7c70079-6d98-4615-bedd-75f556c7b665)
 
 ### Kömür-Rusya Bulgusu: Tek Kaynak Riski Hızla Artıyor
 ![Kömür-Rusya Bulgusu](screenshots/komur_rusya_bulgusu.png)
